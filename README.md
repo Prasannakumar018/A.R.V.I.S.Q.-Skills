@@ -2,21 +2,42 @@
 
 > **A**gentic AI **R**esearch, **V**ulnerability **I**nvestigation, **S**kills & **Q**uests - Security Skills Platform
 
-🛡️ **An open-source security skills catalog, testing tools, and published packages for AI & application security.**
+🛡️ **A publicly available, open-source security skills hub for the modern web.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/A.R.V.I.S.Q.-Skills/pulls)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](CONTRIBUTING.md)
+[![npm packages](https://img.shields.io/badge/npm-10%2B%20packages-red.svg)](https://www.npmjs.com/search?q=%40arvisq)
+[![PyPI packages](https://img.shields.io/badge/PyPI-5%2B%20packages-blue.svg)](https://pypi.org/search/?q=arvisq)
 
 ---
 
 ## 🎯 Mission
 
-A.R.V.I.S.Q.-Skills provides comprehensive security knowledge, tools, and packages for:
-- **OWASP Top 10** - Web application security fundamentals
-- **OWASP LLM Top 10** - AI/LLM-specific vulnerabilities
-- **API Security** - Rate limiting, authentication, authorization checks
-- **Testing Tools** - Automated security validators and scanners
-- **Published Packages** - Reusable security testing libraries
+**A.R.V.I.S.Q.-Skills** is a publicly available, open-source platform providing comprehensive security knowledge, tools, and packages for the global security community.
+
+### What We Provide
+
+#### 📚 Security Knowledge Base
+- **OWASP Top 10** - Web application security fundamentals with detection and remediation guides
+- **OWASP LLM Top 10** - AI/LLM-specific vulnerabilities with real-world exploitation examples
+- **API Security** - Comprehensive guides for securing REST, GraphQL, and gRPC APIs
+- **Backend Security** - Rate limiting, authentication, authorization, and hardening checks
+
+#### 🔧 Open-Source Testing Tools
+- **API Rate Limiter Checker** - Validate rate limiting implementations
+- **Backend Security Scanner** - Headers, CORS, TLS validation
+- **LLM Prompt Injection Tester** - Detect AI vulnerabilities
+- **JWT Security Analyzer** - Token security validation
+- **GraphQL Security Scanner** - API introspection and query validation
+- **AI Model API Fuzzer** - Adversarial testing for ML models
+
+#### 📦 Published Packages (Free to Use)
+- **Python Packages** - `arvisq-owasp-checker`, `arvisq-llm-security`, `arvisq-api-validator`
+- **Node.js Packages** - `@arvisq/security-headers`, `@arvisq/jwt-analyzer`, `@arvisq/api-fuzzer`
+- **CLI Tools** - `arvisq-scan` unified security scanner
+
+**All packages are MIT licensed and free for commercial and personal use.**
 
 ---
 
